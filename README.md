@@ -1,3 +1,7 @@
+<a id="project-overview-added"></a>
+
+[프로젝트 안내](#project-overview-added) · [기존 README 전체 내용](#original-readme-preserved)
+
 # Git & GitHub Playground
 
 **텍스트 파일을 수정하며 Git과 GitHub의 기본 작업을 연습한 개인 실습 저장소입니다.**
@@ -24,3 +28,11 @@ git show <커밋ID>
 
 - [명령어별 실습 기록](https://github.com/unknownamed/Git-practice)
 - [Git·GitHub 빠른 참고 가이드](https://github.com/unknownamed/Git-GitHub-Quick-Reference-Guide)
+
+---
+
+<a id="original-readme-preserved"></a>
+
+## 기존 README 전체 내용
+
+ddfsdfsa
